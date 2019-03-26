@@ -1,2 +1,4 @@
 # APIs-and-Web-Scraping
-Coding Exercise 
+
+# This is my coding exercise on using APIs and Web Scrapping
+
